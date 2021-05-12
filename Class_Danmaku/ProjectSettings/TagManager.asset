@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Low_Obstacle
+  - E_Bullet
+  - Enemy
+  - GameManager
+  - E_Target
+  - Border
+  - Route
+  - Control_Point
+  - Floor
+  - DeathBorder
+  - PickUp
+  - Bomb
+  - Life
+  - Boss
+  - SpawnTrigger
+  - SFX
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - P_Bullets
+  - E_Bullets
+  - Player
+  - Enemy
+  - Border
+  - Route
+  - Ground
+  - DeathBorder
+  - PickUp
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
